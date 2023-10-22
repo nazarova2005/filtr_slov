@@ -1,0 +1,6 @@
+C:\Users\днс\Downloads\Новая папка\FiltrLibrary\FiltrLibrary\bin\Debug\FiltrLibrary.dll
+C:\Users\днс\Downloads\Новая папка\FiltrLibrary\FiltrLibrary\bin\Debug\FiltrLibrary.pdb
+C:\Users\днс\Downloads\Новая папка\FiltrLibrary\FiltrLibrary\obj\Debug\FiltrLibrary.csproj.AssemblyReference.cache
+C:\Users\днс\Downloads\Новая папка\FiltrLibrary\FiltrLibrary\obj\Debug\FiltrLibrary.csproj.CoreCompileInputs.cache
+C:\Users\днс\Downloads\Новая папка\FiltrLibrary\FiltrLibrary\obj\Debug\FiltrLibrary.dll
+C:\Users\днс\Downloads\Новая папка\FiltrLibrary\FiltrLibrary\obj\Debug\FiltrLibrary.pdb
